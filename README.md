@@ -17,7 +17,10 @@ I am a driven Data enthusiast with a passion for uncovering insights from data a
 
 "Explore my expertise across various domains including Cloud Computing, Database Management, and Programming Languages."
 
+## Big Data Technologies
 
+![Hadoop](https://img.shields.io/badge/-Hadoop-0078D4?logo=apache-hadoop&logoColor=white)  
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 
 ## Cloud Computing
 
