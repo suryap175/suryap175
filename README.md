@@ -9,7 +9,6 @@ I am a driven Data enthusiast with a passion for uncovering insights from data a
 
 ## 🔗 Connect with Me
 
-- **Portfolio**: [Surya Pratap Singh](https://suryasingh.me/)
 - **GitHub**: [suryap175](https://github.com/suryap175)
 - **Google Scholar**: [Research Publications](https://scholar.google.com/citations?user=zdz1gRQAAAAJ&hl=en)
 
