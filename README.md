@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Surya Pratap Singh! 
 ### About me: 
-I am a driven Data enthusiast with a passion for uncovering insights from data and building innovative solutions. With a strong background in Data Analytics Engineering, Computer Science, and extensive experience in Python and SQL, I have developed a diverse skill set that spans machine learning, statistical modeling, and data visualization.
+Data Science professional with 3+ years of experience architecting scalable AI and big data solutions across AdTech, Healthcare, and Supply Chain. With a Master’s in Data Analytics Engineering, I specialize in the full-cycle development of production ML systems, from high-volume ETL orchestration to real-time microservice deployment on GCP and AWS, while dealing with large and messy datasets. 
+ 
 
 - **🌱 Currently Exploring:** Data Science/ Analytics/ Engineer/ Machine Learning/ Business Intelligence roles <br />
 - **📓 Education:** MS in Data Analytics, Bachelors in Computer Science
